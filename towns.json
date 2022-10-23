@@ -1,351 +1,351 @@
-[{"name": "LOWELL", "done": False}
-{"name": "BEVERLY", "done": False}
-{"name": "GLOUCESTER", "done": False}
-{"name": "CHESTER", "done": False}
-{"name": "WINCHESTER", "done": False}
-{"name": "MILLVILLE", "done": False}
-{"name": "BRIDGEWATER", "done": False}
-{"name": "HOPEDALE", "done": False}
-{"name": "TOPSFIELD", "done": False}
-{"name": "BOXFORD", "done": False}
-{"name": "WALPOLE", "done": False}
-{"name": "BERLIN", "done": False}
-{"name": "SHARON", "done": False}
-{"name": "LYNN", "done": False}
-{"name": "NORWOOD", "done": False}
-{"name": "WALES", "done": False}
-{"name": "SOMERVILLE", "done": False}
-{"name": "LEYDEN", "done": False}
-{"name": "HUNTINGTON", "done": False}
-{"name": "DUDLEY", "done": False}
-{"name": "TOLLAND", "done": False}
-{"name": "CANTON", "done": False}
-{"name": "MASHPEE", "done": False}
-{"name": "LYNNFIELD", "done": False}
-{"name": "BARNSTABLE", "done": False}
-{"name": "DOVER", "done": False}
-{"name": "MENDON", "done": False}
-{"name": "HUDSON", "done": False}
-{"name": "WESTWOOD", "done": False}
-{"name": "HOLLAND", "done": False}
-{"name": "CAMBRIDGE", "done": False}
-{"name": "FITCHBURG", "done": False}
-{"name": "LEOMINSTER", "done": False}
-{"name": "LUNENBURG", "done": False}
-{"name": "LEXINGTON", "done": False}
-{"name": "LANESBOROUGH", "done": False}
-{"name": "PLAINFIELD", "done": False}
-{"name": "GOSNOLD", "done": False}
-{"name": "PERU", "done": False}
-{"name": "SHERBORN", "done": False}
-{"name": "MIDDLEBOROUGH", "done": False}
-{"name": "FALL RIVER", "done": False}
-{"name": "HOLLISTON", "done": False}
-{"name": "GREENFIELD", "done": False}
-{"name": "GRAFTON", "done": False}
-{"name": "BLACKSTONE", "done": False}
-{"name": "MEDFORD", "done": False}
-{"name": "PEMBROKE", "done": False}
-{"name": "DUXBURY", "done": False}
-{"name": "BOSTON", "done": False}
-{"name": "CONCORD", "done": False}
-{"name": "WINDSOR", "done": False}
-{"name": "TAUNTON", "done": False}
-{"name": "WAREHAM", "done": False}
-{"name": "NORTH BROOKFIELD", "done": False}
-{"name": "CHARLTON", "done": False}
-{"name": "DEERFIELD", "done": False}
-{"name": "CONWAY", "done": False}
-{"name": "DALTON", "done": False}
-{"name": "WELLESLEY", "done": False}
-{"name": "NEEDHAM", "done": False}
-{"name": "PETERSHAM", "done": False}
-{"name": "READING", "done": False}
-{"name": "QUINCY", "done": False}
-{"name": "CHESTERFIELD", "done": False}
-{"name": "RANDOLPH", "done": False}
-{"name": "SHEFFIELD", "done": False}
-{"name": "NEWBURYPORT", "done": False}
-{"name": "MAYNARD", "done": False}
-{"name": "LANCASTER", "done": False}
-{"name": "DIGHTON", "done": False}
-{"name": "ATHOL", "done": False}
-{"name": "CHESHIRE", "done": False}
-{"name": "ESSEX", "done": False}
-{"name": "WARE", "done": False}
-{"name": "NANTUCKET", "done": False}
-{"name": "TEWKSBURY", "done": False}
-{"name": "EGREMONT", "done": False}
-{"name": "BROOKLINE", "done": False}
-{"name": "LENOX", "done": False}
-{"name": "PITTSFIELD", "done": False}
-{"name": "EVERETT", "done": False}
-{"name": "TYNGSBOROUGH", "done": False}
-{"name": "MALDEN", "done": False}
-{"name": "STONEHAM", "done": False}
-{"name": "NORTHAMPTON", "done": False}
-{"name": "BRAINTREE", "done": False}
-{"name": "SCITUATE", "done": False}
-{"name": "NAHANT", "done": False}
-{"name": "WENHAM", "done": False}
-{"name": "BELLINGHAM", "done": False}
-{"name": "STURBRIDGE", "done": False}
-{"name": "BELMONT", "done": False}
-{"name": "WEST BRIDGEWATER", "done": False}
-{"name": "CARLISLE", "done": False}
-{"name": "SAUGUS", "done": False}
-{"name": "HUBBARDSTON", "done": False}
-{"name": "FAIRHAVEN", "done": False}
-{"name": "SANDWICH", "done": False}
-{"name": "MARSHFIELD", "done": False}
-{"name": "GOSHEN", "done": False}
-{"name": "DUNSTABLE", "done": False}
-{"name": "SAVOY", "done": False}
-{"name": "ARLINGTON", "done": False}
-{"name": "HARDWICK", "done": False}
-{"name": "MOUNT WASHINGTON", "done": False}
-{"name": "ASHBY", "done": False}
-{"name": "HULL", "done": False}
-{"name": "NORTHBOROUGH", "done": False}
-{"name": "WESTFIELD", "done": False}
-{"name": "SALEM", "done": False}
-{"name": "MARLBOROUGH", "done": False}
-{"name": "BELCHERTOWN", "done": False}
-{"name": "FREETOWN", "done": False}
-{"name": "FLORIDA", "done": False}
-{"name": "HADLEY", "done": False}
-{"name": "NORTH ADAMS", "done": False}
-{"name": "MANSFIELD", "done": False}
-{"name": "BERNARDSTON", "done": False}
-{"name": "DRACUT", "done": False}
-{"name": "SHUTESBURY", "done": False}
-{"name": "FRANKLIN", "done": False}
-{"name": "WESTMINSTER", "done": False}
-{"name": "REVERE", "done": False}
-{"name": "WRENTHAM", "done": False}
-{"name": "AVON", "done": False}
-{"name": "ACUSHNET", "done": False}
-{"name": "MARION", "done": False}
-{"name": "BURLINGTON", "done": False}
-{"name": "HAWLEY", "done": False}
-{"name": "LAWRENCE", "done": False}
-{"name": "LUDLOW", "done": False}
-{"name": "NORFOLK", "done": False}
-{"name": "WHITMAN", "done": False}
-{"name": "CLARKSBURG", "done": False}
-{"name": "PAXTON", "done": False}
-{"name": "SOUTHBOROUGH", "done": False}
-{"name": "MILFORD", "done": False}
-{"name": "BOYLSTON", "done": False}
-{"name": "PLAINVILLE", "done": False}
-{"name": "NEW BEDFORD", "done": False}
-{"name": "MARBLEHEAD", "done": False}
-{"name": "LONGMEADOW", "done": False}
-{"name": "GRANVILLE", "done": False}
-{"name": "WEBSTER", "done": False}
-{"name": "SOUTHBRIDGE", "done": False}
-{"name": "SALISBURY", "done": False}
-{"name": "AMHERST", "done": False}
-{"name": "AQUINNAH", "done": False}
-{"name": "CHILMARK", "done": False}
-{"name": "CHELSEA", "done": False}
-{"name": "NEWTON", "done": False}
-{"name": "IPSWICH", "done": False}
-{"name": "COHASSET", "done": False}
-{"name": "AUBURN", "done": False}
-{"name": "CHICOPEE", "done": False}
-{"name": "HAMILTON", "done": False}
-{"name": "PLYMOUTH", "done": False}
-{"name": "BARRE", "done": False}
-{"name": "BOLTON", "done": False}
-{"name": "WARWICK", "done": False}
-{"name": "FALMOUTH", "done": False}
-{"name": "SEEKONK", "done": False}
-{"name": "TEMPLETON", "done": False}
-{"name": "PALMER", "done": False}
-{"name": "FOXBOROUGH", "done": False}
-{"name": "PEABODY", "done": False}
-{"name": "AGAWAM", "done": False}
-{"name": "MEDFIELD", "done": False}
-{"name": "WORCESTER", "done": False}
-{"name": "SWAMPSCOTT", "done": False}
-{"name": "WAYLAND", "done": False}
-{"name": "MILTON", "done": False}
-{"name": "ADAMS", "done": False}
-{"name": "MILLIS", "done": False}
-{"name": "BRIMFIELD", "done": False}
-{"name": "ASHBURNHAM", "done": False}
-{"name": "COLRAIN", "done": False}
-{"name": "NORTHFIELD", "done": False}
-{"name": "PLYMPTON", "done": False}
-{"name": "BERKLEY", "done": False}
-{"name": "KINGSTON", "done": False}
-{"name": "MONTAGUE", "done": False}
-{"name": "WEST STOCKBRIDGE", "done": False}
-{"name": "DANVERS", "done": False}
-{"name": "OTIS", "done": False}
-{"name": "BECKET", "done": False}
-{"name": "GREAT BARRINGTON", "done": False}
-{"name": "ROWE", "done": False}
-{"name": "MIDDLEFIELD", "done": False}
-{"name": "GROTON", "done": False}
-{"name": "TRURO", "done": False}
-{"name": "WINCHENDON", "done": False}
-{"name": "WELLFLEET", "done": False}
-{"name": "AMESBURY", "done": False}
-{"name": "HANCOCK", "done": False}
-{"name": "WESTBOROUGH", "done": False}
-{"name": "HALIFAX", "done": False}
-{"name": "WORTHINGTON", "done": False}
-{"name": "NORWELL", "done": False}
-{"name": "BREWSTER", "done": False}
-{"name": "EDGARTOWN", "done": False}
-{"name": "CLINTON", "done": False}
-{"name": "STOW", "done": False}
-{"name": "ATTLEBORO", "done": False}
-{"name": "HARWICH", "done": False}
-{"name": "STOUGHTON", "done": False}
-{"name": "SOMERSET", "done": False}
-{"name": "NEWBURY", "done": False}
-{"name": "HANOVER", "done": False}
-{"name": "UXBRIDGE", "done": False}
-{"name": "GROVELAND", "done": False}
-{"name": "MILLBURY", "done": False}
-{"name": "PELHAM", "done": False}
-{"name": "WAKEFIELD", "done": False}
-{"name": "ROCKLAND", "done": False}
-{"name": "MEDWAY", "done": False}
-{"name": "WEST BROOKFIELD", "done": False}
-{"name": "NEW SALEM", "done": False}
-{"name": "CHATHAM", "done": False}
-{"name": "WALTHAM", "done": False}
-{"name": "HOLBROOK", "done": False}
-{"name": "PEPPERELL", "done": False}
-{"name": "GILL", "done": False}
-{"name": "DENNIS", "done": False}
-{"name": "LEVERETT", "done": False}
-{"name": "BROOKFIELD", "done": False}
-{"name": "NORTH ATTLEBOROUGH", "done": False}
-{"name": "WEYMOUTH", "done": False}
-{"name": "WESTHAMPTON", "done": False}
-{"name": "WEST BOYLSTON", "done": False}
-{"name": "LEICESTER", "done": False}
-{"name": "HINSDALE", "done": False}
-{"name": "SHREWSBURY", "done": False}
-{"name": "PROVINCETOWN", "done": False}
-{"name": "UPTON", "done": False}
-{"name": "BILLERICA", "done": False}
-{"name": "ROCHESTER", "done": False}
-{"name": "HARVARD", "done": False}
-{"name": "WOBURN", "done": False}
-{"name": "WILBRAHAM", "done": False}
-{"name": "GEORGETOWN", "done": False}
-{"name": "CARVER", "done": False}
-{"name": "EASTHAM", "done": False}
-{"name": "MELROSE", "done": False}
-{"name": "MANCHESTER", "done": False}
-{"name": "SUTTON", "done": False}
-{"name": "FRAMINGHAM", "done": False}
-{"name": "HOLYOKE", "done": False}
-{"name": "NEW ASHFORD", "done": False}
-{"name": "NEW MARLBOROUGH", "done": False}
-{"name": "MONTGOMERY", "done": False}
-{"name": "ANDOVER", "done": False}
-{"name": "EAST BROOKFIELD", "done": False}
-{"name": "SPENCER", "done": False}
-{"name": "WILMINGTON", "done": False}
-{"name": "RICHMOND", "done": False}
-{"name": "DOUGLAS", "done": False}
-{"name": "ABINGTON", "done": False}
-{"name": "SOUTHWICK", "done": False}
-{"name": "YARMOUTH", "done": False}
-{"name": "ALFORD", "done": False}
-{"name": "SPRINGFIELD", "done": False}
-{"name": "BEDFORD", "done": False}
-{"name": "ASHLAND", "done": False}
-{"name": "MONROE", "done": False}
-{"name": "OAKHAM", "done": False}
-{"name": "HANSON", "done": False}
-{"name": "RAYNHAM", "done": False}
-{"name": "WESTON", "done": False}
-{"name": "GARDNER", "done": False}
-{"name": "ORANGE", "done": False}
-{"name": "DARTMOUTH", "done": False}
-{"name": "CUMMINGTON", "done": False}
-{"name": "GRANBY", "done": False}
-{"name": "LEE", "done": False}
-{"name": "STERLING", "done": False}
-{"name": "WARREN", "done": False}
-{"name": "LAKEVILLE", "done": False}
-{"name": "ROYALSTON", "done": False}
-{"name": "WATERTOWN", "done": False}
-{"name": "EASTON", "done": False}
-{"name": "EAST BRIDGEWATER", "done": False}
-{"name": "NATICK", "done": False}
-{"name": "BROCKTON", "done": False}
-{"name": "WENDELL", "done": False}
-{"name": "WESTFORD", "done": False}
-{"name": "NORTH READING", "done": False}
-{"name": "TISBURY", "done": False}
-{"name": "ACTON", "done": False}
-{"name": "MIDDLETON", "done": False}
-{"name": "TYRINGHAM", "done": False}
-{"name": "HINGHAM", "done": False}
-{"name": "ROCKPORT", "done": False}
-{"name": "OAK BLUFFS", "done": False}
-{"name": "RUTLAND", "done": False}
-{"name": "MATTAPOISETT", "done": False}
-{"name": "WESTPORT", "done": False}
-{"name": "CHARLEMONT", "done": False}
-{"name": "WEST SPRINGFIELD", "done": False}
-{"name": "NEW BRAINTREE", "done": False}
-{"name": "DEDHAM", "done": False}
-{"name": "PRINCETON", "done": False}
-{"name": "LINCOLN", "done": False}
-{"name": "BUCKLAND", "done": False}
-{"name": "HATFIELD", "done": False}
-{"name": "BOXBOROUGH", "done": False}
-{"name": "HOLDEN", "done": False}
-{"name": "METHUEN", "done": False}
-{"name": "ASHFIELD", "done": False}
-{"name": "SWANSEA", "done": False}
-{"name": "REHOBOTH", "done": False}
-{"name": "SHIRLEY", "done": False}
-{"name": "PHILLIPSTON", "done": False}
-{"name": "CHELMSFORD", "done": False}
-{"name": "SOUTH HADLEY", "done": False}
-{"name": "WILLIAMSBURG", "done": False}
-{"name": "WEST NEWBURY", "done": False}
-{"name": "LITTLETON", "done": False}
-{"name": "HAVERHILL", "done": False}
-{"name": "HEATH", "done": False}
-{"name": "SUDBURY", "done": False}
-{"name": "ROWLEY", "done": False}
-{"name": "WHATELY", "done": False}
-{"name": "BOURNE", "done": False}
-{"name": "WASHINGTON", "done": False}
-{"name": "WILLIAMSTOWN", "done": False}
-{"name": "SHELBURNE", "done": False}
-{"name": "EAST LONGMEADOW", "done": False}
-{"name": "SOUTHAMPTON", "done": False}
-{"name": "MONSON", "done": False}
-{"name": "SANDISFIELD", "done": False}
-{"name": "ERVING", "done": False}
-{"name": "MONTEREY", "done": False}
-{"name": "WEST TISBURY", "done": False}
-{"name": "TOWNSEND", "done": False}
-{"name": "WINTHROP", "done": False}
-{"name": "STOCKBRIDGE", "done": False}
-{"name": "ORLEANS", "done": False}
-{"name": "AYER", "done": False}
-{"name": "OXFORD", "done": False}
-{"name": "HOPKINTON", "done": False}
-{"name": "RUSSELL", "done": False}
-{"name": "MERRIMAC", "done": False}
-{"name": "NORTHBRIDGE", "done": False}
-{"name": "BLANDFORD", "done": False}
-{"name": "EASTHAMPTON", "done": False}
-{"name": "NORTH ANDOVER", "done": False}
-{"name": "NORTON", "done": False}
-{"name": "HAMPDEN", "done": False}
-{"name": "SUNDERLAND", "done": False}]
+[{"name":"LOWELL","done":false}
+{"name":"BEVERLY","done":false}
+{"name":"GLOUCESTER","done":false}
+{"name":"CHESTER","done":false}
+{"name":"WINCHESTER","done":false}
+{"name":"MILLVILLE","done":false}
+{"name":"BRIDGEWATER","done":false}
+{"name":"HOPEDALE","done":false}
+{"name":"TOPSFIELD","done":false}
+{"name":"BOXFORD","done":false}
+{"name":"WALPOLE","done":false}
+{"name":"BERLIN","done":false}
+{"name":"SHARON","done":false}
+{"name":"LYNN","done":false}
+{"name":"NORWOOD","done":false}
+{"name":"WALES","done":false}
+{"name":"SOMERVILLE","done":false}
+{"name":"LEYDEN","done":false}
+{"name":"HUNTINGTON","done":false}
+{"name":"DUDLEY","done":false}
+{"name":"TOLLAND","done":false}
+{"name":"CANTON","done":false}
+{"name":"MASHPEE","done":false}
+{"name":"LYNNFIELD","done":false}
+{"name":"BARNSTABLE","done":false}
+{"name":"DOVER","done":false}
+{"name":"MENDON","done":false}
+{"name":"HUDSON","done":false}
+{"name":"WESTWOOD","done":false}
+{"name":"HOLLAND","done":false}
+{"name":"CAMBRIDGE","done":false}
+{"name":"FITCHBURG","done":false}
+{"name":"LEOMINSTER","done":false}
+{"name":"LUNENBURG","done":false}
+{"name":"LEXINGTON","done":false}
+{"name":"LANESBOROUGH","done":false}
+{"name":"PLAINFIELD","done":false}
+{"name":"GOSNOLD","done":false}
+{"name":"PERU","done":false}
+{"name":"SHERBORN","done":false}
+{"name":"MIDDLEBOROUGH","done":false}
+{"name":"FALLRIVER","done":false}
+{"name":"HOLLISTON","done":false}
+{"name":"GREENFIELD","done":false}
+{"name":"GRAFTON","done":false}
+{"name":"BLACKSTONE","done":false}
+{"name":"MEDFORD","done":false}
+{"name":"PEMBROKE","done":false}
+{"name":"DUXBURY","done":false}
+{"name":"BOSTON","done":false}
+{"name":"CONCORD","done":false}
+{"name":"WINDSOR","done":false}
+{"name":"TAUNTON","done":false}
+{"name":"WAREHAM","done":false}
+{"name":"NORTHBROOKFIELD","done":false}
+{"name":"CHARLTON","done":false}
+{"name":"DEERFIELD","done":false}
+{"name":"CONWAY","done":false}
+{"name":"DALTON","done":false}
+{"name":"WELLESLEY","done":false}
+{"name":"NEEDHAM","done":false}
+{"name":"PETERSHAM","done":false}
+{"name":"READING","done":false}
+{"name":"QUINCY","done":false}
+{"name":"CHESTERFIELD","done":false}
+{"name":"RANDOLPH","done":false}
+{"name":"SHEFFIELD","done":false}
+{"name":"NEWBURYPORT","done":false}
+{"name":"MAYNARD","done":false}
+{"name":"LANCASTER","done":false}
+{"name":"DIGHTON","done":false}
+{"name":"ATHOL","done":false}
+{"name":"CHESHIRE","done":false}
+{"name":"ESSEX","done":false}
+{"name":"WARE","done":false}
+{"name":"NANTUCKET","done":false}
+{"name":"TEWKSBURY","done":false}
+{"name":"EGREMONT","done":false}
+{"name":"BROOKLINE","done":false}
+{"name":"LENOX","done":false}
+{"name":"PITTSFIELD","done":false}
+{"name":"EVERETT","done":false}
+{"name":"TYNGSBOROUGH","done":false}
+{"name":"MALDEN","done":false}
+{"name":"STONEHAM","done":false}
+{"name":"NORTHAMPTON","done":false}
+{"name":"BRAINTREE","done":false}
+{"name":"SCITUATE","done":false}
+{"name":"NAHANT","done":false}
+{"name":"WENHAM","done":false}
+{"name":"BELLINGHAM","done":false}
+{"name":"STURBRIDGE","done":false}
+{"name":"BELMONT","done":false}
+{"name":"WESTBRIDGEWATER","done":false}
+{"name":"CARLISLE","done":false}
+{"name":"SAUGUS","done":false}
+{"name":"HUBBARDSTON","done":false}
+{"name":"FAIRHAVEN","done":false}
+{"name":"SANDWICH","done":false}
+{"name":"MARSHFIELD","done":false}
+{"name":"GOSHEN","done":false}
+{"name":"DUNSTABLE","done":false}
+{"name":"SAVOY","done":false}
+{"name":"ARLINGTON","done":false}
+{"name":"HARDWICK","done":false}
+{"name":"MOUNTWASHINGTON","done":false}
+{"name":"ASHBY","done":false}
+{"name":"HULL","done":false}
+{"name":"NORTHBOROUGH","done":false}
+{"name":"WESTFIELD","done":false}
+{"name":"SALEM","done":false}
+{"name":"MARLBOROUGH","done":false}
+{"name":"BELCHERTOWN","done":false}
+{"name":"FREETOWN","done":false}
+{"name":"FLORIDA","done":false}
+{"name":"HADLEY","done":false}
+{"name":"NORTHADAMS","done":false}
+{"name":"MANSFIELD","done":false}
+{"name":"BERNARDSTON","done":false}
+{"name":"DRACUT","done":false}
+{"name":"SHUTESBURY","done":false}
+{"name":"FRANKLIN","done":false}
+{"name":"WESTMINSTER","done":false}
+{"name":"REVERE","done":false}
+{"name":"WRENTHAM","done":false}
+{"name":"AVON","done":false}
+{"name":"ACUSHNET","done":false}
+{"name":"MARION","done":false}
+{"name":"BURLINGTON","done":false}
+{"name":"HAWLEY","done":false}
+{"name":"LAWRENCE","done":false}
+{"name":"LUDLOW","done":false}
+{"name":"NORFOLK","done":false}
+{"name":"WHITMAN","done":false}
+{"name":"CLARKSBURG","done":false}
+{"name":"PAXTON","done":false}
+{"name":"SOUTHBOROUGH","done":false}
+{"name":"MILFORD","done":false}
+{"name":"BOYLSTON","done":false}
+{"name":"PLAINVILLE","done":false}
+{"name":"NEWBEDFORD","done":false}
+{"name":"MARBLEHEAD","done":false}
+{"name":"LONGMEADOW","done":false}
+{"name":"GRANVILLE","done":false}
+{"name":"WEBSTER","done":false}
+{"name":"SOUTHBRIDGE","done":false}
+{"name":"SALISBURY","done":false}
+{"name":"AMHERST","done":false}
+{"name":"AQUINNAH","done":false}
+{"name":"CHILMARK","done":false}
+{"name":"CHELSEA","done":false}
+{"name":"NEWTON","done":false}
+{"name":"IPSWICH","done":false}
+{"name":"COHASSET","done":false}
+{"name":"AUBURN","done":false}
+{"name":"CHICOPEE","done":false}
+{"name":"HAMILTON","done":false}
+{"name":"PLYMOUTH","done":false}
+{"name":"BARRE","done":false}
+{"name":"BOLTON","done":false}
+{"name":"WARWICK","done":false}
+{"name":"FALMOUTH","done":false}
+{"name":"SEEKONK","done":false}
+{"name":"TEMPLETON","done":false}
+{"name":"PALMER","done":false}
+{"name":"FOXBOROUGH","done":false}
+{"name":"PEABODY","done":false}
+{"name":"AGAWAM","done":false}
+{"name":"MEDFIELD","done":false}
+{"name":"WORCESTER","done":false}
+{"name":"SWAMPSCOTT","done":false}
+{"name":"WAYLAND","done":false}
+{"name":"MILTON","done":false}
+{"name":"ADAMS","done":false}
+{"name":"MILLIS","done":false}
+{"name":"BRIMFIELD","done":false}
+{"name":"ASHBURNHAM","done":false}
+{"name":"COLRAIN","done":false}
+{"name":"NORTHFIELD","done":false}
+{"name":"PLYMPTON","done":false}
+{"name":"BERKLEY","done":false}
+{"name":"KINGSTON","done":false}
+{"name":"MONTAGUE","done":false}
+{"name":"WESTSTOCKBRIDGE","done":false}
+{"name":"DANVERS","done":false}
+{"name":"OTIS","done":false}
+{"name":"BECKET","done":false}
+{"name":"GREATBARRINGTON","done":false}
+{"name":"ROWE","done":false}
+{"name":"MIDDLEFIELD","done":false}
+{"name":"GROTON","done":false}
+{"name":"TRURO","done":false}
+{"name":"WINCHENDON","done":false}
+{"name":"WELLFLEET","done":false}
+{"name":"AMESBURY","done":false}
+{"name":"HANCOCK","done":false}
+{"name":"WESTBOROUGH","done":false}
+{"name":"HALIFAX","done":false}
+{"name":"WORTHINGTON","done":false}
+{"name":"NORWELL","done":false}
+{"name":"BREWSTER","done":false}
+{"name":"EDGARTOWN","done":false}
+{"name":"CLINTON","done":false}
+{"name":"STOW","done":false}
+{"name":"ATTLEBORO","done":false}
+{"name":"HARWICH","done":false}
+{"name":"STOUGHTON","done":false}
+{"name":"SOMERSET","done":false}
+{"name":"NEWBURY","done":false}
+{"name":"HANOVER","done":false}
+{"name":"UXBRIDGE","done":false}
+{"name":"GROVELAND","done":false}
+{"name":"MILLBURY","done":false}
+{"name":"PELHAM","done":false}
+{"name":"WAKEFIELD","done":false}
+{"name":"ROCKLAND","done":false}
+{"name":"MEDWAY","done":false}
+{"name":"WESTBROOKFIELD","done":false}
+{"name":"NEWSALEM","done":false}
+{"name":"CHATHAM","done":false}
+{"name":"WALTHAM","done":false}
+{"name":"HOLBROOK","done":false}
+{"name":"PEPPERELL","done":false}
+{"name":"GILL","done":false}
+{"name":"DENNIS","done":false}
+{"name":"LEVERETT","done":false}
+{"name":"BROOKFIELD","done":false}
+{"name":"NORTHATTLEBOROUGH","done":false}
+{"name":"WEYMOUTH","done":false}
+{"name":"WESTHAMPTON","done":false}
+{"name":"WESTBOYLSTON","done":false}
+{"name":"LEICESTER","done":false}
+{"name":"HINSDALE","done":false}
+{"name":"SHREWSBURY","done":false}
+{"name":"PROVINCETOWN","done":false}
+{"name":"UPTON","done":false}
+{"name":"BILLERICA","done":false}
+{"name":"ROCHESTER","done":false}
+{"name":"HARVARD","done":false}
+{"name":"WOBURN","done":false}
+{"name":"WILBRAHAM","done":false}
+{"name":"GEORGETOWN","done":false}
+{"name":"CARVER","done":false}
+{"name":"EASTHAM","done":false}
+{"name":"MELROSE","done":false}
+{"name":"MANCHESTER","done":false}
+{"name":"SUTTON","done":false}
+{"name":"FRAMINGHAM","done":false}
+{"name":"HOLYOKE","done":false}
+{"name":"NEWASHFORD","done":false}
+{"name":"NEWMARLBOROUGH","done":false}
+{"name":"MONTGOMERY","done":false}
+{"name":"ANDOVER","done":false}
+{"name":"EASTBROOKFIELD","done":false}
+{"name":"SPENCER","done":false}
+{"name":"WILMINGTON","done":false}
+{"name":"RICHMOND","done":false}
+{"name":"DOUGLAS","done":false}
+{"name":"ABINGTON","done":false}
+{"name":"SOUTHWICK","done":false}
+{"name":"YARMOUTH","done":false}
+{"name":"ALFORD","done":false}
+{"name":"SPRINGFIELD","done":false}
+{"name":"BEDFORD","done":false}
+{"name":"ASHLAND","done":false}
+{"name":"MONROE","done":false}
+{"name":"OAKHAM","done":false}
+{"name":"HANSON","done":false}
+{"name":"RAYNHAM","done":false}
+{"name":"WESTON","done":false}
+{"name":"GARDNER","done":false}
+{"name":"ORANGE","done":false}
+{"name":"DARTMOUTH","done":false}
+{"name":"CUMMINGTON","done":false}
+{"name":"GRANBY","done":false}
+{"name":"LEE","done":false}
+{"name":"STERLING","done":false}
+{"name":"WARREN","done":false}
+{"name":"LAKEVILLE","done":false}
+{"name":"ROYALSTON","done":false}
+{"name":"WATERTOWN","done":false}
+{"name":"EASTON","done":false}
+{"name":"EASTBRIDGEWATER","done":false}
+{"name":"NATICK","done":false}
+{"name":"BROCKTON","done":false}
+{"name":"WENDELL","done":false}
+{"name":"WESTFORD","done":false}
+{"name":"NORTHREADING","done":false}
+{"name":"TISBURY","done":false}
+{"name":"ACTON","done":false}
+{"name":"MIDDLETON","done":false}
+{"name":"TYRINGHAM","done":false}
+{"name":"HINGHAM","done":false}
+{"name":"ROCKPORT","done":false}
+{"name":"OAKBLUFFS","done":false}
+{"name":"RUTLAND","done":false}
+{"name":"MATTAPOISETT","done":false}
+{"name":"WESTPORT","done":false}
+{"name":"CHARLEMONT","done":false}
+{"name":"WESTSPRINGFIELD","done":false}
+{"name":"NEWBRAINTREE","done":false}
+{"name":"DEDHAM","done":false}
+{"name":"PRINCETON","done":false}
+{"name":"LINCOLN","done":false}
+{"name":"BUCKLAND","done":false}
+{"name":"HATFIELD","done":false}
+{"name":"BOXBOROUGH","done":false}
+{"name":"HOLDEN","done":false}
+{"name":"METHUEN","done":false}
+{"name":"ASHFIELD","done":false}
+{"name":"SWANSEA","done":false}
+{"name":"REHOBOTH","done":false}
+{"name":"SHIRLEY","done":false}
+{"name":"PHILLIPSTON","done":false}
+{"name":"CHELMSFORD","done":false}
+{"name":"SOUTHHADLEY","done":false}
+{"name":"WILLIAMSBURG","done":false}
+{"name":"WESTNEWBURY","done":false}
+{"name":"LITTLETON","done":false}
+{"name":"HAVERHILL","done":false}
+{"name":"HEATH","done":false}
+{"name":"SUDBURY","done":false}
+{"name":"ROWLEY","done":false}
+{"name":"WHATELY","done":false}
+{"name":"BOURNE","done":false}
+{"name":"WASHINGTON","done":false}
+{"name":"WILLIAMSTOWN","done":false}
+{"name":"SHELBURNE","done":false}
+{"name":"EASTLONGMEADOW","done":false}
+{"name":"SOUTHAMPTON","done":false}
+{"name":"MONSON","done":false}
+{"name":"SANDISFIELD","done":false}
+{"name":"ERVING","done":false}
+{"name":"MONTEREY","done":false}
+{"name":"WESTTISBURY","done":false}
+{"name":"TOWNSEND","done":false}
+{"name":"WINTHROP","done":false}
+{"name":"STOCKBRIDGE","done":false}
+{"name":"ORLEANS","done":false}
+{"name":"AYER","done":false}
+{"name":"OXFORD","done":false}
+{"name":"HOPKINTON","done":false}
+{"name":"RUSSELL","done":false}
+{"name":"MERRIMAC","done":false}
+{"name":"NORTHBRIDGE","done":false}
+{"name":"BLANDFORD","done":false}
+{"name":"EASTHAMPTON","done":false}
+{"name":"NORTHANDOVER","done":false}
+{"name":"NORTON","done":false}
+{"name":"HAMPDEN","done":false}
+{"name":"SUNDERLAND","done":false}]
